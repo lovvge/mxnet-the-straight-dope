@@ -151,7 +151,12 @@ available in a [web version](http://zh.gluon.ai/) and via [GitHub source](http:/
     * ***Roadmap*** Learning from implicit feedback
 
 * **Chapter 12:** Time series
-    * ***Roadmap*** Forecasting
+    * ***Roadmap*** Introduction to Forecasting
+    * ***Roadmap*** Generalized Linear Models/MLP for forecasting
+    * ***Roadmap*** Recurrent Neural Network for forecasting
+    * [Linear Dynamical System from scratch](https://github.com/zackchase/mxnet-the-straight-dope/blob/master/chapter12_time-series/lds-scratch.ipynb)
+    * [Exponential Smoothing and Innovative State-space moderling from scratch](https://github.com/zackchase/mxnet-the-straight-dope/blob/master/chapter12_time-series/issm-scratch.ipynb)
+    * ***Roadmap*** Bayesian Time Series Methods
     * ***Roadmap*** Modeling missing data
     * ***Roadmap*** Combining static and sequential data
 
